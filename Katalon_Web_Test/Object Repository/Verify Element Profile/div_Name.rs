@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Name</name>
+   <tag></tag>
+   <elementGuidId>da65786f-ac24-46a8-977c-351c8b3b2401</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div[2]/div[2]/div/div/div/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c06d0d5c-db25-4a72-8658-ee7f5f9b14f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>jss102 MuiBox-root css-0</value>
+      <webElementGuid>394be9aa-3037-4d21-a6c1-add6962a2231</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Name​</value>
+      <webElementGuid>ff9d2d1b-5a43-4ae2-ae67-4d8cfb9b3ed1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;jss59&quot;]/div[@class=&quot;jss71&quot;]/div[@class=&quot;jss72&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root jss74 css-d64lo9&quot;]/div[@class=&quot;MuiCardContent-root jss75 css-1qw96cp&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container css-1d3bbye&quot;]/div[@class=&quot;jss100 MuiBox-root css-0&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container css-1d3bbye&quot;]/div[@class=&quot;jss102 MuiBox-root css-0&quot;]</value>
+      <webElementGuid>d79a790c-e00e-402b-8eb6-9e71be238ce9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div[2]/div[2]/div/div/div/div/div[2]</value>
+      <webElementGuid>ce19db78-33a5-48f0-aa82-1ec4a42c1d94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Basic Information'])[1]/following::div[1]</value>
+      <webElementGuid>39362890-af93-4b0c-8a96-305331551550</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div[2]</value>
+      <webElementGuid>6f5f40e6-67fe-446b-94cb-873801a367c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Name​' or . = 'Name​')]</value>
+      <webElementGuid>a5c998e2-6fca-4d0c-90a8-df137e0023fe</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

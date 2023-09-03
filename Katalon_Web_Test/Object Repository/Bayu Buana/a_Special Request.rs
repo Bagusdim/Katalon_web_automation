@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Special Request</name>
+   <tag></tag>
+   <elementGuidId>b51fc754-a9bc-40b4-bf89-f3edc55e8fa4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id = 'menu-special-request' and @href = '/master/special-requests' and (text() = 'Special Request' or . = 'Special Request')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#menu-special-request</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>6daf47f7-3fae-4f81-bbc0-3ff555a3a314</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>menu-special-request</value>
+      <webElementGuid>e15882d0-df6a-474a-8ed4-fda0ed134826</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-link </value>
+      <webElementGuid>3e610db2-156b-45c3-84ea-d087f89d4cb2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/master/special-requests</value>
+      <webElementGuid>968d3456-dfd0-49ac-a944-f06e76b62f2f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Special Request</value>
+      <webElementGuid>7374d0ce-34d2-40b7-882a-77a3d3e6e5ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu-special-request&quot;)</value>
+      <webElementGuid>04b4db03-a665-4135-9692-037f098aadde</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='menu-special-request']</value>
+      <webElementGuid>41c94ad4-dd5d-4aa7-bf77-4227fd4b4dc1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='d14be77b-679e-5f33-aab7-f6719e54180a']/ul/li[32]/a</value>
+      <webElementGuid>6775b0af-deec-4c84-b2c7-3370f8f7115c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign Out'])[1]/following::a[34]</value>
+      <webElementGuid>27a842c9-493e-4cae-b353-eb4cd88ec866</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Change Password'])[1]/following::a[34]</value>
+      <webElementGuid>4d815de4-cde6-4ad7-a187-e3d44a0a9717</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bayu Buana'])[2]/preceding::a[30]</value>
+      <webElementGuid>cc617d15-5666-4042-87db-269cb3ba9ffe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[2]/preceding::a[30]</value>
+      <webElementGuid>39414c47-e3dc-4118-a918-ae345a208431</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/master/special-requests')]</value>
+      <webElementGuid>60e37cd0-8590-400e-9b13-87c326518934</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[32]/a</value>
+      <webElementGuid>6ba9b7a4-28eb-4d95-9375-bdf2e0868443</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'menu-special-request' and @href = '/master/special-requests' and (text() = 'Special Request' or . = 'Special Request')]</value>
+      <webElementGuid>5e91143d-ac7f-4f51-b20f-9c83d12e3d36</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

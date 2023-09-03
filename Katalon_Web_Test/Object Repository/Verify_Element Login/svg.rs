@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg</name>
+   <tag></tag>
+   <elementGuidId>4b79cee9-c290-488e-bf69-8e20bcf897fb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign in to Katalon'])[1]/preceding::*[name()='svg'][1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.jss18 > svg</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>8bd8e6ee-1045-46a0-811f-77327392f734</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>200</value>
+      <webElementGuid>a98fbb44-7544-4570-9c06-b2878559892a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>48</value>
+      <webElementGuid>6ce18638-6fd2-4415-88fb-83f3933823bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 200 48</value>
+      <webElementGuid>d9b691f6-cdb0-49bd-8061-f0b68ae4723e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>none</value>
+      <webElementGuid>d5511201-eb2f-4a2b-b685-77b62c89759a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>9e7156ae-e672-4060-9aee-6cbe3449284d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;jss1&quot;]/div[@class=&quot;jss13&quot;]/div[@class=&quot;jss15&quot;]/div[@class=&quot;jss16&quot;]/div[@class=&quot;jss17 MuiBox-root css-0&quot;]/div[@class=&quot;jss18&quot;]/svg[1]</value>
+      <webElementGuid>ee9da394-4b7a-4717-8325-8e3bc866fb52</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign in to Katalon'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>ded9b8cd-9253-44da-95ca-ceb34dfa59be</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

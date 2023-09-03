@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Sign Up</name>
+   <tag></tag>
+   <elementGuidId>e7015f93-5a47-485f-87df-a9ae7c14ddca</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div[2]/div/a/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.MuiTypography-root.MuiTypography-body1.jss45.css-4trw3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>d6e456e0-3f3c-44ad-9d37-a8939b55c0d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-body1 jss45 css-4trw3</value>
+      <webElementGuid>1b35274c-6f6e-4ab9-8b1b-7d82c7615191</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sign Up</value>
+      <webElementGuid>cf355f51-a83e-4eb1-8331-6e1c7b27f307</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;jss13&quot;]/div[@class=&quot;jss25&quot;]/div[@class=&quot;jss27&quot;]/div[@class=&quot;jss33&quot;]/a[@class=&quot;MuiButtonBase-root MuiButton-root MuiButton-outlined MuiButton-outlinedInherit MuiButton-sizeLarge MuiButton-outlinedSizeLarge MuiButton-colorInherit MuiButton-disableElevation MuiButton-root MuiButton-outlined MuiButton-outlinedInherit MuiButton-sizeLarge MuiButton-outlinedSizeLarge MuiButton-colorInherit MuiButton-disableElevation jss38 jss40 css-2onnet&quot;]/p[@class=&quot;MuiTypography-root MuiTypography-body1 jss45 css-4trw3&quot;]</value>
+      <webElementGuid>1a00efae-04bd-41de-af99-03fa706a8bca</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div[2]/div/a/p</value>
+      <webElementGuid>095baaf1-6ae3-459d-82cb-660afc8acd0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign in to Katalon'])[1]/preceding::p[1]</value>
+      <webElementGuid>dc46f8b4-d4ae-4a12-850b-0ddd121f14a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Sign Up']/parent::*</value>
+      <webElementGuid>88f1f600-d827-40f4-97b2-b81a3f6c729a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/p</value>
+      <webElementGuid>b25dcbb4-58b8-464f-8445-f734b111b8dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Sign Up' or . = 'Sign Up')]</value>
+      <webElementGuid>92263e62-133e-465e-ad24-db9bdc796941</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

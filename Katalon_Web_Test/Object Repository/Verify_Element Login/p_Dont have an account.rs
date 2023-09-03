@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Dont have an account</name>
+   <tag></tag>
+   <elementGuidId>52814e45-7aee-465b-9b8d-359ade7b9ab1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div[2]/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.MuiTypography-root.MuiTypography-body1.jss44.css-4trw3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>cb409668-240c-4443-a496-6bf9bebc0caf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-body1 jss44 css-4trw3</value>
+      <webElementGuid>cdceb389-2356-4cb0-92cc-44269a729477</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Don't have an account?</value>
+      <webElementGuid>fb841319-7132-4f54-8cb7-5f0817839600</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;jss13&quot;]/div[@class=&quot;jss25&quot;]/div[@class=&quot;jss27&quot;]/div[@class=&quot;jss33&quot;]/p[@class=&quot;MuiTypography-root MuiTypography-body1 jss44 css-4trw3&quot;]</value>
+      <webElementGuid>8dc64d01-5ff4-4e8c-a503-6cbc62757e84</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div[2]/div/p</value>
+      <webElementGuid>ea64f2cc-a79c-46eb-b8d9-f1eb8334b232</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign in to Katalon'])[1]/preceding::p[2]</value>
+      <webElementGuid>52daae17-7bdf-492d-8e12-17cfaf805261</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>dccef2ab-5221-4a72-9a35-60f7b6ef0805</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = concat(&quot;Don&quot; , &quot;'&quot; , &quot;t have an account?&quot;) or . = concat(&quot;Don&quot; , &quot;'&quot; , &quot;t have an account?&quot;))]</value>
+      <webElementGuid>67f9945f-35c0-408c-81c1-43f86b13a019</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

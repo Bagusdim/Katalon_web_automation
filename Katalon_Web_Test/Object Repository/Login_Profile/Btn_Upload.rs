@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Btn_Upload</name>
+   <tag></tag>
+   <elementGuidId>21d2e531-834b-491b-8788-62b00868596c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@accept = 'image/png, image/jpeg' and @type = 'file' and @id = 'upload-avatar']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>accept</name>
+      <type>Main</type>
+      <value>image/png, image/jpeg</value>
+      <webElementGuid>87bb681c-1394-45a3-97eb-06ae00e7b3ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>file</value>
+      <webElementGuid>f0845296-7f96-4786-bc36-f0e6250c3d25</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>upload-avatar</value>
+      <webElementGuid>b3bf6eb7-663a-4e4a-ae54-1743ac345f69</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

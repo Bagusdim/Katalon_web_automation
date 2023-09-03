@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_By signing in to Katalon Platform, you agree with Katalon Terms of Service and Privacy Policy</name>
+   <tag></tag>
+   <elementGuidId>8c6e62c3-1bdb-4609-96f7-6f04caec8a91</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div[2]/div[2]/div/div[3]/form/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.MuiTypography-root.MuiTypography-body1.jss31.css-4trw3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>32c3d294-8a5a-4901-a445-f77d165160de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-body1 jss31 css-4trw3</value>
+      <webElementGuid>3154f2a8-c525-4bfd-9710-0287e45f34c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>By signing in to Katalon Platform, you agree with Katalon Terms of Service and Privacy Policy.</value>
+      <webElementGuid>de787249-c4ce-46d7-bc90-588bba08380d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;jss13&quot;]/div[@class=&quot;jss25&quot;]/div[@class=&quot;jss27&quot;]/div[@class=&quot;jss28&quot;]/div[@class=&quot;jss29 MuiBox-root css-0&quot;]/div[@class=&quot;MuiCardContent-root css-1qw96cp&quot;]/form[@class=&quot;jss34&quot;]/p[@class=&quot;MuiTypography-root MuiTypography-body1 jss31 css-4trw3&quot;]</value>
+      <webElementGuid>370a4319-b8a5-471b-a43c-552028c5534e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div[2]/div[2]/div/div[3]/form/p</value>
+      <webElementGuid>67f216ca-257b-4d29-acc5-41710ac2612b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Remember me'])[1]/preceding::p[1]</value>
+      <webElementGuid>07f23564-054b-4a08-83cc-1252664c8d7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='By signing in to Katalon Platform, you agree with']/parent::*</value>
+      <webElementGuid>c180dc77-0add-46c3-bbcd-c276b7c5fc42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/p</value>
+      <webElementGuid>e033d780-0cc5-40a5-8563-97540754fc36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'By signing in to Katalon Platform, you agree with Katalon Terms of Service and Privacy Policy.' or . = 'By signing in to Katalon Platform, you agree with Katalon Terms of Service and Privacy Policy.')]</value>
+      <webElementGuid>bfd65b37-a8ae-471b-89dc-f7cb89298da8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

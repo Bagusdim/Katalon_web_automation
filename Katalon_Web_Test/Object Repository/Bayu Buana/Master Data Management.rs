@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Master Data Management</name>
+   <tag></tag>
+   <elementGuidId>f64c820e-89c5-44b0-b07e-1911c24dfe7a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='menu-master-data-management']/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#menu-master-data-management > p.overflow-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>51ea6391-fc94-4816-83e1-7dd0cede863e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Master Data Management</value>
+      <webElementGuid>cc470399-cfe6-4582-8a3e-6dc3689be097</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>overflow-text</value>
+      <webElementGuid>814d471f-a4b2-4879-949c-9e077230ad19</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Master Data Management</value>
+      <webElementGuid>34b56a37-befe-4604-9ed3-e330244cb6e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu-master-data-management&quot;)/p[@class=&quot;overflow-text&quot;]</value>
+      <webElementGuid>763afcec-c9aa-4f18-8fc6-62b176db02b5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='menu-master-data-management']/p</value>
+      <webElementGuid>67410a4c-5263-4a25-9123-90fc09db1e91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign Out'])[1]/following::p[2]</value>
+      <webElementGuid>ff51b5c8-1f79-49c9-892d-91489660801f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Change Password'])[1]/following::p[2]</value>
+      <webElementGuid>cc3cd9cc-5e6d-4f99-aa5e-6ac9187300a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bayu Buana'])[2]/preceding::p[62]</value>
+      <webElementGuid>f7dff7ea-4f7a-4849-a59a-d892973b02ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[2]/preceding::p[62]</value>
+      <webElementGuid>862937a3-6a4b-4b27-a20f-8007eedc98cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Master Data Management']/parent::*</value>
+      <webElementGuid>ab6f0c77-5ae3-4b00-9474-8a5dd0fe06a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/a/p</value>
+      <webElementGuid>30daa574-0c69-4d93-9f83-09801b173506</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[@title = 'Master Data Management' and (text() = 'Master Data Management' or . = 'Master Data Management')]</value>
+      <webElementGuid>806306b1-0b48-4e3c-89ac-b034d9c70f7b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

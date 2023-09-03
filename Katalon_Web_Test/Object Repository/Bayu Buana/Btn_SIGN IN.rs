@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Btn_SIGN IN</name>
+   <tag></tag>
+   <elementGuidId>e65a2348-65af-4163-b6e2-0f8de5aad1e4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/div[2]/div/form/button/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.text-button-block-white</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e5fc59e0-97b7-4233-8fc5-fddb6fc4da2f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-button-block-white</value>
+      <webElementGuid>3908be0f-3f08-481b-a531-4a16f1d0d1dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SIGN IN</value>
+      <webElementGuid>93200883-fd31-4bcb-b8ce-a5b2fa25ec18</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;auth-page&quot;]/div[@class=&quot;auth-wrapper&quot;]/div[@class=&quot;card-form&quot;]/div[@class=&quot;card-form-body&quot;]/div[@class=&quot;card-form-body-login&quot;]/form[1]/button[@class=&quot;btn btn-block mt-4 button-save&quot;]/div[@class=&quot;text-button-block-white&quot;]</value>
+      <webElementGuid>f42a0d4f-7d6d-4aa9-8957-2c521a3ec40d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div[2]/div/form/button/div</value>
+      <webElementGuid>f711f74e-41a7-455c-85b3-1feb4c3f0738</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password is required.'])[1]/following::div[3]</value>
+      <webElementGuid>4787a4a9-9afd-4e66-93bb-65a972e99bd2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/following::div[6]</value>
+      <webElementGuid>f0bfb281-c768-4c2a-ade7-1dec90289195</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='loading version list...'])[1]/preceding::div[3]</value>
+      <webElementGuid>08b79c65-e2d2-4a0c-8df3-a080f4dd6642</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='SIGN IN']/parent::*</value>
+      <webElementGuid>d3ab3433-a4a8-48af-809d-0f2b2cfe0707</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/div</value>
+      <webElementGuid>85988268-da49-423f-9d6a-bdecee45a588</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'SIGN IN' or . = 'SIGN IN')]</value>
+      <webElementGuid>2a74e82e-af8f-46e5-af1f-d83b0a10a068</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Name has been updated</name>
+   <tag></tag>
+   <elementGuidId>84d10f7d-6bc1-476d-92f2-522d8f9e15b2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Registered Date'])[1]/following::div[8]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.SnackbarContent-root.SnackbarItem-contentRoot.SnackbarItem-variantSuccess.jss63.jss60.SnackbarItem-lessPadding.css-hped4j</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6494b182-aa28-4670-bab2-e17c021dc0c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>SnackbarContent-root SnackbarItem-contentRoot SnackbarItem-variantSuccess jss63 jss60 SnackbarItem-lessPadding css-hped4j</value>
+      <webElementGuid>5ada4f03-c32e-44fd-83fe-2f3c5fa23934</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-describedby</name>
+      <type>Main</type>
+      <value>notistack-snackbar</value>
+      <webElementGuid>c751b739-8a10-4d27-b350-d59dab02261e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>alert</value>
+      <webElementGuid>cde99e22-0f23-439f-8990-80955aaf6010</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Name has been updated.</value>
+      <webElementGuid>1336b160-d8d8-4a3e-aaba-bea363d9603d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;jss59&quot;]/div[@class=&quot;SnackbarContainer-top SnackbarContainer-right SnackbarContainer-root css-uwcd5u&quot;]/div[@class=&quot;MuiCollapse-root MuiCollapse-vertical MuiCollapse-entered css-c4sutr&quot;]/div[@class=&quot;MuiCollapse-wrapper MuiCollapse-vertical css-hboir5&quot;]/div[@class=&quot;MuiCollapse-wrapperInner MuiCollapse-vertical css-8atqhb&quot;]/div[@class=&quot;SnackbarItem-wrappedRoot css-1s9ymgq&quot;]/div[@class=&quot;SnackbarContent-root SnackbarItem-contentRoot SnackbarItem-variantSuccess jss63 jss60 SnackbarItem-lessPadding css-hped4j&quot;]</value>
+      <webElementGuid>757aa581-2c57-47e8-916e-97ad20dc7299</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[3]/div/div/div/div/div</value>
+      <webElementGuid>d2240f21-ae3c-499d-990b-a883162aab86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Registered Date'])[1]/following::div[8]</value>
+      <webElementGuid>450f6142-278e-4867-a3ae-08ce729f77e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[2]/following::div[10]</value>
+      <webElementGuid>d1483115-1322-4fd6-91bb-e93ac3c75e59</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Capture object:'])[1]/preceding::div[8]</value>
+      <webElementGuid>8b18ef7a-b2bb-43d1-8f17-5dc468b0b349</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/div</value>
+      <webElementGuid>dd551112-0422-4039-beb2-9db0ec706d6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Name has been updated.' or . = 'Name has been updated.')]</value>
+      <webElementGuid>c07036f1-d8be-4e25-975a-ac45a3ba84a8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

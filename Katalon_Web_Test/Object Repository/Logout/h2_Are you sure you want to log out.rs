@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Are you sure you want to log out</name>
+   <tag></tag>
+   <elementGuidId>dc00a7dc-cd9f-46ec-b20d-19663116d969</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#mui-7</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*/text()[normalize-space(.)='Are you sure you want to log out?']/parent::*</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>440c0a0c-d20a-4acd-9945-96f3dab5e518</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-h6 MuiDialogTitle-root jss152 css-qn89ky</value>
+      <webElementGuid>c02a99e9-19d7-4650-898f-c3823ec69d4d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>mui-7</value>
+      <webElementGuid>72d52e31-e53a-4f86-b2b8-98efa851a95c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Are you sure you want to log out?</value>
+      <webElementGuid>39018ada-36c9-4783-a9b0-c08128988fc2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mui-7&quot;)</value>
+      <webElementGuid>5235083a-262d-425c-a039-dc2f64f6fbcd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//h2[@id='mui-7']</value>
+      <webElementGuid>741eb612-6ff0-41a7-9584-cb196ca595b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='`'])[2]/following::h2[1]</value>
+      <webElementGuid>903b259b-258d-440b-9d30-dc2f6a11b84d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alt'])[2]/following::h2[1]</value>
+      <webElementGuid>c0b0d233-914a-41e5-863a-67c1473b4515</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/preceding::h2[1]</value>
+      <webElementGuid>00fca65b-fa19-463e-b6a3-6582a888cdd7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Log Out'])[2]/preceding::h2[1]</value>
+      <webElementGuid>0d76283b-d0d7-45a5-9123-be9495450b63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Are you sure you want to log out?']/parent::*</value>
+      <webElementGuid>81169bc0-6dc3-4823-bd5e-e568c9468462</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/h2</value>
+      <webElementGuid>6329ded5-af56-4e52-b7ac-ce5d281481ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[@id = 'mui-7' and (text() = 'Are you sure you want to log out?' or . = 'Are you sure you want to log out?')]</value>
+      <webElementGuid>21e98e0d-aa75-4e3e-9697-760938b94cb2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

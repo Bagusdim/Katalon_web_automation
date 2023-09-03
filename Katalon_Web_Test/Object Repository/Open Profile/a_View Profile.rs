@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_View Profile</name>
+   <tag></tag>
+   <elementGuidId>554d3cea-a1ce-475f-a36a-6ec98b2af9ae</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn-view-profile.btn.btn-primary</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='user']/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>e175eaca-0089-4181-895d-fe6cf2a55c7f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>9e765f8b-59b4-4a63-a46c-f3a284b774f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rel</name>
+      <type>Main</type>
+      <value>noreferrer noopener</value>
+      <webElementGuid>e06885f4-44c7-4818-b426-62f73f52e416</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/api/v1/katone/page/profile</value>
+      <webElementGuid>64468b8e-ae7c-4c9c-b83c-3afcc91664f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn-view-profile btn btn-primary</value>
+      <webElementGuid>d4d470b3-0ccc-4167-927d-3daf33d9c18e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>View Profile </value>
+      <webElementGuid>16982bbb-0a18-4e78-b50a-b6d67a785563</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;simple-popover&quot;)/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation8 MuiPopover-paper css-1dmmx7f&quot;]/nav[@class=&quot;MuiList-root MuiList-padding css-1ontqvh&quot;]/div[@class=&quot;top-right-dropdown&quot;]/ul[@class=&quot;MuiList-root MuiList-padding css-1ontqvh&quot;]/li[@id=&quot;user&quot;]/div[@class=&quot;user-profile&quot;]/a[@class=&quot;btn-view-profile btn btn-primary&quot;]</value>
+      <webElementGuid>d48a80cd-94e2-48d3-b1b5-7f408a7d17a3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='user']/div/a</value>
+      <webElementGuid>4f5942f8-1bda-4725-aef9-02706ec50559</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'View Profile')]</value>
+      <webElementGuid>c977e0bb-1cb3-4e50-a71c-1f56e63062ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='zeremy55@gmail.com'])[1]/following::a[1]</value>
+      <webElementGuid>1004bad6-7db1-4cdf-bd51-51aff53379e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='crNnzzEfNT'])[1]/following::a[1]</value>
+      <webElementGuid>c225bd0d-9f00-4fea-8b27-8b9a1db7bbf5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='User Settings'])[1]/preceding::a[1]</value>
+      <webElementGuid>7a5a088f-196c-4a62-89c2-020ffe15efe0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Documentation'])[1]/preceding::a[2]</value>
+      <webElementGuid>04648689-aadd-467d-ab48-89beb647eb81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='View Profile']/parent::*</value>
+      <webElementGuid>2a4ebf41-dc24-44e4-bed6-9c264b7630c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/api/v1/katone/page/profile')]</value>
+      <webElementGuid>95391be2-ad7f-4d0f-af73-5e315d578da2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/div/a</value>
+      <webElementGuid>9af2e87b-25e3-4c6f-877d-a0bd78896e8a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/api/v1/katone/page/profile' and (text() = 'View Profile ' or . = 'View Profile ')]</value>
+      <webElementGuid>726fe8df-7846-426b-854b-70fdb62211fe</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

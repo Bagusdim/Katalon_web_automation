@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Dashboard</name>
+   <tag></tag>
+   <elementGuidId>3c91a741-eea0-4df2-8231-09fb2d86d5a6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@href = '/' and (text() = 'Dashboard' or . = 'Dashboard')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.nav-link.parent-link.mb-0.menu-open.active-menu</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>0c2f2ae3-1430-4a5d-a07a-3e193141ff3d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-link parent-link mb-0 menu-open active-menu</value>
+      <webElementGuid>e2cd82c6-49e7-47cf-8003-7082bc3c0782</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/</value>
+      <webElementGuid>06099ad7-188d-4801-a7a5-bbf74b264c5a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Dashboard</value>
+      <webElementGuid>875dd0b1-9340-43fa-81ed-a53304b5e094</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;c120ee09-d6fd-5938-8b32-c1bd8329bffc&quot;)/a[@class=&quot;nav-link parent-link mb-0 menu-open active-menu&quot;]</value>
+      <webElementGuid>7393e1e4-552c-450a-954b-cacf716179b8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='c120ee09-d6fd-5938-8b32-c1bd8329bffc']/a</value>
+      <webElementGuid>873098e2-2683-4160-84fc-e33853399882</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign Out'])[1]/following::a[1]</value>
+      <webElementGuid>f76c235f-6acb-46f0-9553-991e641823d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Change Password'])[1]/following::a[1]</value>
+      <webElementGuid>aaed878a-e437-4781-bf77-e81b350f91d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bayu Buana'])[2]/preceding::a[63]</value>
+      <webElementGuid>a00b4914-f4d6-42d0-8541-1dbebabbf64e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[2]/preceding::a[63]</value>
+      <webElementGuid>4d1339dc-1182-4cc8-8a88-c4ae2cc3a21b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/')])[8]</value>
+      <webElementGuid>7de98578-576c-4ebd-85cd-5eae956414ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//aside/div/nav/ul/li/a</value>
+      <webElementGuid>6dd8e4e4-29ae-4b67-8cc9-0be27c0fd25e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/' and (text() = 'Dashboard' or . = 'Dashboard')]</value>
+      <webElementGuid>c6a64391-1923-41dd-9199-3ca1c8c19ee7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

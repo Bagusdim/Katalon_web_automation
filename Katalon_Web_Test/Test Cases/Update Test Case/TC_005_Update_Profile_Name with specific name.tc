@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_005_Update_Profile_Name with specific name</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e3c64ddf-8bee-4261-8451-7c784a201307</testCaseGuid>
+</TestCaseEntity>

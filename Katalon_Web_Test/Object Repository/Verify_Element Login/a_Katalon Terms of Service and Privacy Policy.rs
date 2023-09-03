@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Katalon Terms of Service and Privacy Policy</name>
+   <tag></tag>
+   <elementGuidId>d4161c2b-7033-45f9-aab9-b5ef81bbd1df</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div[2]/div[2]/div/div[3]/form/p/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.MuiTypography-root.MuiTypography-inherit.MuiLink-root.MuiLink-underlineAlways.jss32.css-1anfz52</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>847e5e62-3c01-4bc0-834d-0467a41a4f1b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-inherit MuiLink-root MuiLink-underlineAlways jss32 css-1anfz52</value>
+      <webElementGuid>89d9f2b6-7526-483b-8e8e-1432b359dee1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.katalon.com/terms/#testops-agreement</value>
+      <webElementGuid>5f0ca80f-f37b-42b5-91ec-669a621e3348</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Katalon Terms of Service and Privacy Policy.</value>
+      <webElementGuid>284ade66-bb55-48f7-95a6-ef0fdae54ac4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;jss13&quot;]/div[@class=&quot;jss25&quot;]/div[@class=&quot;jss27&quot;]/div[@class=&quot;jss28&quot;]/div[@class=&quot;jss29 MuiBox-root css-0&quot;]/div[@class=&quot;MuiCardContent-root css-1qw96cp&quot;]/form[@class=&quot;jss34&quot;]/p[@class=&quot;MuiTypography-root MuiTypography-body1 jss31 css-4trw3&quot;]/a[@class=&quot;MuiTypography-root MuiTypography-inherit MuiLink-root MuiLink-underlineAlways jss32 css-1anfz52&quot;]</value>
+      <webElementGuid>4a460404-e417-4427-afe1-e2001825e2ed</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div[2]/div[2]/div/div[3]/form/p/a</value>
+      <webElementGuid>8268e762-2fab-49a7-8fba-5be7c4bbf758</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Katalon Terms of Service and Privacy Policy.')]</value>
+      <webElementGuid>186595b5-2c68-4f2a-9b5d-aefe931e858f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Remember me'])[1]/preceding::a[1]</value>
+      <webElementGuid>5d290914-e209-4f2a-a2be-4478f6e0edcf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign In'])[1]/preceding::a[1]</value>
+      <webElementGuid>3975a3a7-754a-4097-9903-fe9f58b5c6b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Katalon Terms of Service and Privacy Policy.']/parent::*</value>
+      <webElementGuid>884130eb-ba72-49be-a1ea-1623e1a8cdf1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://www.katalon.com/terms/#testops-agreement')]</value>
+      <webElementGuid>21e49a00-f420-444b-a4a9-88968a63f0ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p/a</value>
+      <webElementGuid>0e2f685d-a3ba-4f15-9f77-b0cb7743f917</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.katalon.com/terms/#testops-agreement' and (text() = 'Katalon Terms of Service and Privacy Policy.' or . = 'Katalon Terms of Service and Privacy Policy.')]</value>
+      <webElementGuid>699e1daa-38db-4d9c-a0e0-616de325d1e9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Basic Information_jss86</name>
+   <tag></tag>
+   <elementGuidId>e1254158-9af1-4dce-8ab7-2ea19d8f678f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div/header/div/div/div/li/a/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img.jss86</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>b46e534e-ec5b-4224-935e-27d482620fdf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>jss86</value>
+      <webElementGuid>88eeef1e-2e94-4a53-a17a-a22d8939aa5b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/static/media/katalonLogo.663bfb78.svg</value>
+      <webElementGuid>6ee148b0-bed3-4292-8908-44afe3047230</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Katalon logo</value>
+      <webElementGuid>61c9e71e-7611-48c0-b8d8-44b80bcff7b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;jss59&quot;]/div[@class=&quot;jss71&quot;]/div[@class=&quot;jss80&quot;]/header[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-elevation4 MuiAppBar-root MuiAppBar-colorPrimary MuiAppBar-positionFixed jss81 mui-fixed css-6wt9wj&quot;]/div[@class=&quot;MuiContainer-root MuiContainer-maxWidthLg MuiContainer-disableGutters css-5csqms&quot;]/div[@class=&quot;jss82 MuiBox-root css-0&quot;]/div[@class=&quot;jss83 MuiBox-root css-0&quot;]/li[@class=&quot;MuiListItem-root MuiListItem-gutters MuiListItem-padding jss85 css-qkzer5&quot;]/a[@class=&quot;MuiTypography-root MuiTypography-inherit MuiLink-root MuiLink-underlineHover css-qmh0n4&quot;]/img[@class=&quot;jss86&quot;]</value>
+      <webElementGuid>06598bf9-5d17-4b57-811c-509d573c6f2e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div/header/div/div/div/li/a/img</value>
+      <webElementGuid>aad00ce8-c96f-4b01-a2ea-d78756a61ded</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Katalon logo']</value>
+      <webElementGuid>30441c83-f7f6-4e35-b1be-c02a1a63eeed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//img</value>
+      <webElementGuid>fa165165-432f-432c-b416-722aa70c84d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/static/media/katalonLogo.663bfb78.svg' and @alt = 'Katalon logo']</value>
+      <webElementGuid>ee8b6f62-373b-42ca-a9e8-4cf179102740</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

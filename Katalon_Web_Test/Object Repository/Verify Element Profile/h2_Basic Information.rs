@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Basic Information</name>
+   <tag></tag>
+   <elementGuidId>7649764b-28b1-4d19-9b64-1c75412fef65</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div[2]/div[2]/div/div/div/div/div/div/h2</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h2.MuiTypography-root.MuiTypography-h2.jss107.css-yliiex</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>e497aeb3-0960-4c62-95c8-e5a0d7237c02</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-h2 jss107 css-yliiex</value>
+      <webElementGuid>87528af6-39d8-4af8-8b0f-785d1648e58e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Basic Information</value>
+      <webElementGuid>c7afbedb-34c0-4b07-9cda-06744b4d8e46</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;jss59&quot;]/div[@class=&quot;jss71&quot;]/div[@class=&quot;jss72&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root jss74 css-d64lo9&quot;]/div[@class=&quot;MuiCardContent-root jss75 css-1qw96cp&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container css-1d3bbye&quot;]/div[@class=&quot;jss100 MuiBox-root css-0&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container css-1d3bbye&quot;]/div[@class=&quot;jss102 MuiBox-root css-0&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-sm-3 MuiGrid-grid-md-3 MuiGrid-grid-xl-3 css-9ppe9d&quot;]/h2[@class=&quot;MuiTypography-root MuiTypography-h2 jss107 css-yliiex&quot;]</value>
+      <webElementGuid>3abe7b7a-d6c9-4efb-9147-cbf293675669</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div[2]/div[2]/div/div/div/div/div/div/h2</value>
+      <webElementGuid>677e9df5-0d76-4c0f-91c4-a2fc99f9ef22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Name'])[1]/preceding::h2[1]</value>
+      <webElementGuid>4a23c341-7dae-47c8-b5d2-191c9cea3e46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[1]/preceding::h2[1]</value>
+      <webElementGuid>3c528495-fbfa-4bde-a217-9e0d17e8611a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Basic Information']/parent::*</value>
+      <webElementGuid>84327a30-4b0a-4045-8ece-65d3d2163880</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2</value>
+      <webElementGuid>c4fd65a2-75df-4866-b86a-41b1b975457c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = 'Basic Information' or . = 'Basic Information')]</value>
+      <webElementGuid>e1826335-e2de-4233-a889-b2a008823d34</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
